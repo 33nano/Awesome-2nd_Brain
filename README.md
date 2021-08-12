@@ -9,8 +9,8 @@ Before you dive into this awesome list, its probably best to get the top questio
 2. What problems does a Second Brain solve?
 - A multitude of problems ranging from information overload, post traumatic growth(feeling stuck), knowledge management, creative block (i.e writers block), tutorial hell (escape), gas lighting, indoctrination, impostor syndrome ...
 
-3. Who is a Second Brain for
-- Literally all human beings from knowledge workers, freelancers, productivity enthusiasts, entrepreneurs, polyglots, content creators, etc. If you try it and decide its not for you
+3. Who is a Second Brain for?
+- Literally all human beings from knowledge workers, freelancers, productivity enthusiasts, entrepreneurs, polyglots, content creators, etc. If you try it out and figure out that its not for you, dont stress, feel free to look into other personal knowledge management systems like [these](#pkm).
 
 
 
@@ -20,7 +20,7 @@ Before you dive into this awesome list, its probably best to get the top questio
 - Text Editors
 - Terminal Apps
 - Styles
-- Other Personal Knowledge Management Systems
+- [Other Personal Knowledge Management Systems](#pkm)
 
 ### Courses
 
@@ -41,3 +41,5 @@ Before you dive into this awesome list, its probably best to get the top questio
 - Freestyle
 - Reticular Activating System
 - 
+
+### PKM

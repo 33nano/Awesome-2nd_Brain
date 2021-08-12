@@ -23,6 +23,11 @@ Before you dive into this awesome list, its probably best to get the top questio
 - [Other Personal Knowledge Management Systems](#pkm)
 
 ### Courses
+- Official Course
+- Official Podcast
+- Summarized Blog Post
+- Guided walkthrough
+- Guided walkthrough
 
 ### Text Editors
 - Notion
@@ -43,3 +48,5 @@ Before you dive into this awesome list, its probably best to get the top questio
 - 
 
 ### PKM
+- [Zettlekasten](https://zettelkasten.de/)
+- Mindmaps (Buzan Style)

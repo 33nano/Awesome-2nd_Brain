@@ -12,7 +12,8 @@ Before you dive into this awesome list, its probably best to get the top questio
 3. Who is a Second Brain for?
 - Literally all human beings from knowledge workers, freelancers, productivity enthusiasts, entrepreneurs, polyglots, content creators, etc. If you try it out and figure out that its not for you, dont stress, feel free to look into other personal knowledge management systems like [these](#pkm).
 
-
+4. How does a Second Brain work?
+- 
 
 
 ### TOC
@@ -23,20 +24,20 @@ Before you dive into this awesome list, its probably best to get the top questio
 - [Other Personal Knowledge Management Systems](#pkm)
 
 ### Courses
-- Official Course
+- [Official Course](https://www.buildingasecondbrain.com/)
 - Official Podcast
 - Summarized Blog Post
 - Guided walkthrough
 - Guided walkthrough
 
 ### Text Editors
-- Notion
-- Obsidian
-- Markor
-- Evernote
-- VScode with Foam
-- Roam 
-- Logseq
+- [Notion](https://www.notion.so/)
+- [Obsidian](https://obsidian.md/)
+- [Markor](https://f-droid.org/en/packages/net.gsantner.markor/)
+- [Evernote](https://evernote.com/)
+- VScode with [Foam](https://foambubble.github.io/foam/)
+- [Roam](https://roamresearch.com/)
+- [Logseq](https://logseq.com/)
 
 ### Terminal Apps
 - Calcurse

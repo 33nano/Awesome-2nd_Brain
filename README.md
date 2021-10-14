@@ -46,7 +46,7 @@ Before you dive into this awesome list, its probably best to get the top questio
 ### Styles
 - Freestyle
 - Reticular Activating System
-- 
+- Gamified
 
 ### PKM
 - [Zettlekasten](https://zettelkasten.de/)

@@ -38,6 +38,8 @@ Before you dive into this awesome list, its probably best to get the top questio
 - VScode with [Foam](https://foambubble.github.io/foam/)
 - [Roam](https://roamresearch.com/)
 - [Logseq](https://logseq.com/)
+- Dendron
+- Knowfox
 
 ### Terminal Apps
 - Calcurse

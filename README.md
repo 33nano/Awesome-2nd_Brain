@@ -40,6 +40,18 @@ Before you dive into this awesome list, its probably best to get the top questio
 - [Logseq](https://logseq.com/)
 - Dendron
 - Knowfox
+- Tettra
+- Bear
+- Ulysses
+- Trello
+- Zim Wiki
+- Taskade
+- myReach
+- Clickup
+- Milanote
+- Craft
+- Zettlr
+- Supernotes
 
 ### Terminal Apps
 - Calcurse

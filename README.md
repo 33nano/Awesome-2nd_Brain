@@ -38,24 +38,24 @@ Before you dive into this awesome list, its probably best to get the top questio
 - VScode with [Foam](https://foambubble.github.io/foam/)
 - [Roam](https://roamresearch.com/)
 - [Logseq](https://logseq.com/)
-- Dendron
-- Knowfox
-- Tettra
-- Bear
-- Ulysses
-- Trello
-- Zim Wiki
-- Taskade
-- myReach
-- Clickup
-- Milanote
-- Craft
-- Zettlr
-- Supernotes
+- [Dendron](https://www.dendron.so/)
+- [Knowfox](https://knowfox.com/)
+- [Tettra](https://tettra.com/)
+- [Bear](https://bear.app/)
+- [Ulysses](https://ulysses.app/)
+- [Trello](https://trello.com/en-US)
+- [Zim Wiki](https://zim-wiki.org/)
+- [Taskade](https://www.taskade.com/)
+- [myReach](https://rea.ch/)
+- [Clickup](https://clickup.com/)
+- [Milanote](https://milanote.com/)
+- [Craft](https://www.craft.do/)
+- [Zettlr](https://www.zettlr.com/)
+- [Supernotes](https://supernotes.app/)
 
 ### Terminal Apps
-- Calcurse
-- Taskwarrior
+- [Calcurse](https://calcurse.org/)
+- [Taskwarrior](https://taskwarrior.org/)
 
 ### Styles
 - Freestyle
@@ -63,5 +63,7 @@ Before you dive into this awesome list, its probably best to get the top questio
 - Gamified
 
 ### PKM
+> Other personal knowledge management systems
 - [Zettlekasten](https://zettelkasten.de/)
 - Mindmaps (Buzan Style)
+- [Digital Garden](https://github.com/MaggieAppleton/digital-gardeners)

@@ -1,4 +1,4 @@
-# Awesome-2nd_Brain
+# Awesome-2nd_Brain 🧠
 awesome of list of resources to help you build a Second Brain
  
 Before you dive into this awesome list, its probably best to get the top questions out of the way. I will include more questions and answers on the bottom. Here goes:

@@ -52,6 +52,7 @@ Before you dive into this awesome list, its probably best to get the top questio
 - [Craft](https://www.craft.do/)
 - [Zettlr](https://www.zettlr.com/)
 - [Supernotes](https://supernotes.app/)
+- [ExoBrain](https://exobrain.co)
 
 ### Terminal Apps
 - [Calcurse](https://calcurse.org/)

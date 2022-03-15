@@ -67,3 +67,8 @@ Before you dive into this awesome list, its probably best to get the top questio
 - [Zettlekasten](https://zettelkasten.de/)
 - Mindmaps (Buzan Style)
 - [Digital Garden](https://github.com/MaggieAppleton/digital-gardeners)
+
+### Resources
+> Related content
+- [Nesslabs](https://nesslabs.com)
+- [Paidea x Praxis](https://paideiaxpraxis.com)
